@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="t0X5QaxNmPNLitDOcQBwmRoMi4NLdwlzPfeV5XZTqRo" />
 <!-- SEO: Fiona Van Alstyne GitHub AI data travel endurance software engineer Seattle -->
 
 ✈️: [fionavanalstyne.com](https://fionavanalstyne.com)
