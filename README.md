@@ -1,6 +1,7 @@
 <!-- SEO: Fiona Van Alstyne GitHub AI data travel endurance software engineer Seattle -->
 
-&nbsp;
+✈️: [fionavanalstyne.com](https://fionavanalstyne.com)
+
 <!--
 **fva/fva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
